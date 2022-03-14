@@ -1,0 +1,33 @@
+
+   h1 {
+      color: red;
+      margin-left: 600px;
+      margin-top: 50px;
+   }
+   nav a {
+    padding-left: 10px;
+
+      
+   }
+   nav {
+       margin-left: 600px;
+   }
+   .li{
+       margin-left: 640px;
+   }
+   article {
+       margin-left: 200px;
+   }
+   .box1 {
+       width: 400px;
+       height: 300px;
+       margin-left: 550px;
+   }
+   .ortala {
+       margin-left: 600px;
+   }
+  
+   a::before {
+       content: "#";
+   }
+   
